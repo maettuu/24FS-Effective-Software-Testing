@@ -1,5 +1,5 @@
 # 24FS Effective Software Testing (EST)
-This repository includes the practical assignments of the course EST. All code is written in Java 11.
+This repository includes the practical assignments of the course EST. All code is written in `Java 11`.
 
 ## Assignment 1: Effective and Systematic Software Testing
 Each of the eight exercises contains a problem description. For each problem test cases are composed to detect bugs in the code provided. This is achieved following the principles of *specification-based*, *structural* and *mutation testing*. For *structural testing* the [JaCoCo plugin](https://www.eclemma.org/jacoco/trunk/doc/maven.html) is used. *Mutation testing* is done using [PItest](https://pitest.org/quickstart/maven/). Test reports are included for each exercise. Furthermore, the [Documentation file](./assignment-1/Documentation.md) includes bug reports, implementation decisions and test coverage results.
